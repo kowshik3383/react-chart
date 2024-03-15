@@ -56,8 +56,10 @@ const App = () => {
                 </li>
               ))}
             </ul>
+           
           </div>
         ))}
+         <h1>checkout the code at <a href="https://github.com/kowshik3383/react-chart/">github</a>  </h1>
       </div>
       
     </div>
